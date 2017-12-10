@@ -1,0 +1,7 @@
+# RSA toolbox :
+    - Test every output
+    - Wrong inputs protection
+    - Catch all exceptions
+# GPT :
+    - Wrong inputs protection
+    - Test
